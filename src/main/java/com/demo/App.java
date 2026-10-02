@@ -6,7 +6,6 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 public class App {
-
     // Credenciales escritas directamente en el código
     private static final String USER = "admin";
     private static final String PASSWORD = "admin123";
