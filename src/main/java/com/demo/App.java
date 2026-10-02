@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class App {
     // Credenciales escritas directamente en el código
     private static final String USER = "admin";
-    private static final String PASSWORD = "admin123";
+    private static final String PASSWORD = "admin12345789";
 
     public static void main(String[] args) throws Exception {
 
